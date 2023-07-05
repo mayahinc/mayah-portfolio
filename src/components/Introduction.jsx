@@ -6,7 +6,7 @@ function Introduction() {
     return (
         <div className = 'flex items-center justify-center flex-col text-center pt-12 pb-6'>
             <h1 className = 'text-5xl md:text-7x1 dark:text-neutral-100 mb-5 md:mb-5 font-bold'>Mayah McCutchen</h1>
-            <p className = 'text-base md:text-xl mb-5 font-medium'>Data Analyst</p>
+            <p className = 'text-base md:text-xl mb-5 font-medium'>Data Scientist</p>
             <img // insert your image here, resize if needed using the w-x/12 starting with a mobile view, then work your way up
                src = '../images/me.jpeg'
                alt = "Mayah McCutchen" 
