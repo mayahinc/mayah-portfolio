@@ -9,12 +9,6 @@ export default [
         details: `Recently decided to dust off my tech degree and complete the Data Analytics Professional Certification. This course revitalized my desire to grow and expand my technology career. I am proficient in SQL, R, Tableau, Excel and Data Analytics. I am a strong data storyteller and a mathematician at heart- hence my growing interest in data and it's role in this new world as a whole.`
     },
     {
-        year: '2021',
-        title: 'Company Owner & Content Creator',
-        duration: '1 year',
-        details: `Had a baby and named her MAYAH INC. This is a youtube- data centric content creation automation system that relies on data analytics to produce quality content at scale over the long term.`
-    },
-    {
         year: '2019',
         title: 'University of Delaware',
         duration: '4 years',
