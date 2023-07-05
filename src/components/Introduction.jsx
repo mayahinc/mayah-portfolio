@@ -12,7 +12,7 @@ function Introduction() {
                alt = "Mayah McCutchen" 
                class = "rounded-full w-7/12 md:w-5/12 lg:w-3/12 mb-6"
             />
-            <p className = 'text-md max-w-xl mb-6 font-bold'>I am a Computer Science graduate and Data Analyst who is most interested in analyzing data problems and presenting solutions in a clear and concise manner. </p>
+            <p className = 'text-md max-w-xl mb-6 font-bold'>I am a Computer Science graduate and Data Professional and I am is most interested in analyzing and solving data problems and presenting solutions in a clear and concise manner. </p>
         </div>
     );
 };
